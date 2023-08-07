@@ -1,0 +1,34 @@
+id,brand,model,price
+0,Apple,iPhone SE (2022),10000
+1,Apple,iPhone 13 Mini,10000
+2,Apple,iPhone 13,10000
+3,Apple,iPhone 13 Pro,10000
+4,Apple,iPhone 13 Pro Max,10000
+5,Apple,iPhone XR,10000
+6,Asus,Zenfone 8,5000
+7,Samsung,Galaxy A13,8000
+8,Samsung,Galaxy A32,8000
+9,Samsung,Galaxy A53,8000
+10,Samsung,Galaxy S22,8000
+11,Samsung,Galaxy S22 Plus,8000
+12,Samsung,Galaxy S22 Ultra,8000
+13,Samsung,Galaxy Z Flip 3,8000
+14,Samsung,Galaxy Z Fold 3,8000
+15,Google,Pixel 6  ,5000
+16,Google,Pixel 6a,5000
+17,Google,Pixel 6 Pro ,5000
+18,OnePlus,Nord N20,5000
+19,OnePlus,Nord 2T,5000
+20,OnePlus,10 Pro,5000
+21,OnePlus,10T,5000
+22,Oppo,Find X5 Pro,5000
+23,Vivo,X80 Pro,5000
+24,Xiaomi,Redmi Note 11,5000
+25,Xiaomi,11T Pro,5000
+26,Xiaomi,12 Pro,5000
+27,Xiaomi,Poco F4,5000
+28,Sony,Xperia Pro,5000
+29,Motorola,Moto G Stylus (2022),5000
+30,Motorola,Moto G Play (2021),5000
+31,Motorola,Moto G Pure,5000
+32,Motorola,Moto G Power (2022),5000
